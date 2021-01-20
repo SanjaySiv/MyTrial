@@ -11,6 +11,7 @@ class Sample{
         sb.append(id).append(" ").append(name);
         return sb.toString();
         //return id+" "+name;
+        //return String.format("%d %s",id,name);
     }
 }
 public class ToStringMethod {
@@ -21,3 +22,8 @@ public class ToStringMethod {
         System.out.println(s2);
     }
 }
+
+
+
+
+
