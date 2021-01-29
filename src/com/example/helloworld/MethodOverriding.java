@@ -24,6 +24,7 @@ public class MethodOverriding {
         Sbi s = new Sbi();
         Icici i = new Icici();
         Axis a = new Axis();
+        Bank b=new Axis();
         System.out.println(s.rateOfInterest()+"%"); //rateOfInterest() is overridden
         System.out.println(i.rateOfInterest()+"%"); //rateOfInterest() is overridden
         System.out.println(a.rateOfInterest()+"%"); //rateOfInterest() is overridden
