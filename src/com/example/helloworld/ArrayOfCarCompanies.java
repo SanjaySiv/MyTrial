@@ -19,9 +19,7 @@ public class ArrayOfCarCompanies {
             if (carCmp[i].equalsIgnoreCase("bmw")) {  //searching for bmw
                 System.out.println("bmw found");
                 String temp = carCmp[i];
-                for (int j = i; j > 0; j--) {
-                    carCmp[j] = carCmp[j - 1];
-                }
+                System.arraycopy(carCmp, 0, carCmp, 1, i);
                 carCmp[0] = temp;
                 System.out.println("Altered order");
                 for (String cars : carCmp) {
