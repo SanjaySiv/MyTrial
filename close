@@ -1,0 +1,286 @@
+[33mcommit f503f0d5bbec3be3e93f252c1ca30524d60347bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Wed Feb 3 14:44:31 2021 +0530
+
+    Calling superclass constructor using super
+
+[33mcommit 415f7f61308f9ee66156038e68033f0ffdb12568[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Wed Feb 3 11:39:11 2021 +0530
+
+    Super keyword
+
+[33mcommit 95c60158c5e9bf17f739670fbf78a6d9c4b71205[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Wed Feb 3 10:34:56 2021 +0530
+
+    Inheritance example
+
+[33mcommit 2df77f436a506f9206a667669339c18eee269b43[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Tue Feb 2 17:06:29 2021 +0530
+
+    Exam and result
+
+[33mcommit cbb24092fde8ed94179b4f459360e5788aa44894[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Tue Feb 2 14:43:25 2021 +0530
+
+    Employee details
+
+[33mcommit 8a1cb10d3203614d2d0be2c4f701a4e93fde9576[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Tue Feb 2 11:31:41 2021 +0530
+
+    Abstract class
+
+[33mcommit 56452b62dfbf25e1092383365c33404bdae30071[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Tue Feb 2 11:31:14 2021 +0530
+
+    System.arraycopy()
+
+[33mcommit f1765119894343fcd5b634bfd6e649bb0b9ca74d[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Mon Feb 1 18:14:17 2021 +0530
+
+    Grade calculator
+
+[33mcommit 8c36766df848fda18aef2ef1efb996269dde57a7[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Mon Feb 1 16:29:48 2021 +0530
+
+    Concat function
+
+[33mcommit b295b6770f438807b1aa5608ad5e50606e46e4c0[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Mon Feb 1 12:52:42 2021 +0530
+
+    Sorting String array
+
+[33mcommit a18aff21e39f8a9ddc51fd38722e0eea7bf14887[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Mon Feb 1 11:20:33 2021 +0530
+
+    Sorting numeric array
+
+[33mcommit 2b6d095e8950cecc8b0a222418ab3a22a964d563[m
+Merge: d041c04 397ba85
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 18:18:18 2021 +0530
+
+    Merge branch 'master' of https://github.com/SanjaySiv/MyTrial
+
+[33mcommit d041c0463bad68b0dc3854c0e1f2306b6e7a1a69[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 18:06:00 2021 +0530
+
+    Car selector
+
+[33mcommit fda129111b2bf1e98cd5afd1c1c2c9752993d87e[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 17:22:15 2021 +0530
+
+    If demo
+
+[33mcommit 9e7daa0a9b1ab9b74a7ca3ac8d62310a65a84f3d[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 17:10:28 2021 +0530
+
+    Logical operators
+
+[33mcommit 632767303249770a949075c3eaee9d97d1fd7fac[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 14:14:27 2021 +0530
+
+    math operation demo
+
+[33mcommit 22cb269dc73fe60f94501e014446bf06b3aa5585[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 12:55:44 2021 +0530
+
+    Datatypes
+
+[33mcommit 65e6ea35dd0665a3672982e500934657c09e4ffd[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Fri Jan 29 11:57:55 2021 +0530
+
+    HelloWorld
+
+[33mcommit db445c6cb3295143e0bc0b09b4f72c0278f1c765[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Thu Jan 28 18:56:41 2021 +0530
+
+    Palindrome checking
+
+[33mcommit 397ba8577bfc8f20af05862c3cd9bc025503767b[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Thu Jan 28 18:56:41 2021 +0530
+
+    Palindrome checking
+
+[33mcommit c0f072e198eac3691f9b9713fa133d2b48656e4d[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Thu Jan 28 15:05:38 2021 +0530
+
+    Access modifier demo
+
+[33mcommit 1a4c6027714dd259e83e0db423d553d97aa1730c[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Thu Jan 28 11:45:50 2021 +0530
+
+    equals() vs ==
+
+[33mcommit fff7c197dcce5935e776e4efd41fd8be2b1787fd[m
+Author: sanjay.ks <sanjay.ks@pitsolutiions.com>
+Date:   Mon Jan 25 18:47:44 2021 +0530
+
+    InterfaceExample
+
+[33mcommit afd5613df326bcbb3ba87ab674a87b24589f7ace[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Thu Jan 21 17:23:09 2021 +0530
+
+    method overriding
+
+[33mcommit 028f524c4b7970fb0d0ffd507bca2adc45661467[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Thu Jan 21 17:12:51 2021 +0530
+
+    method overloading
+
+[33mcommit bca8f66ca09f3d9314b692b3b640bf32d422eeb8[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Thu Jan 21 15:30:34 2021 +0530
+
+    Inheritance demo1
+
+[33mcommit 7d09af90826c011eb339d2bc7d5b134fea4b6d7f[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Thu Jan 21 15:08:31 2021 +0530
+
+    Aggregate
+
+[33mcommit 3b73986c499ea2fc7ab07d836bd61df7bb181094[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Thu Jan 21 10:35:36 2021 +0530
+
+    Aggregate Example
+
+[33mcommit 2a137ab760abf5add25b33ee6b256c25b4f077a5[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Thu Jan 21 10:30:26 2021 +0530
+
+    Aggregate Example
+
+[33mcommit 8f11dc9ff802d62f1cf8bb3bf5cf124cbb9ae8bd[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Wed Jan 20 16:25:34 2021 +0530
+
+    ToStringMethod
+
+[33mcommit 8bc39bc98735afbaf1aff4e68d4e7f799b835fc7[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Wed Jan 20 16:24:19 2021 +0530
+
+    FormatSpecifiers
+
+[33mcommit 86bfb053b7f777dc439d07da84976c8d67b41ce2[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Wed Jan 20 15:55:29 2021 +0530
+
+    ToString method
+
+[33mcommit ce4a82f41770bf4597bcced91d4bfa3be888abe6[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Wed Jan 20 15:12:14 2021 +0530
+
+    Clone object
+
+[33mcommit f7ad18cf8b9764cb6912a19c4d97f772555a2a98[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Tue Jan 19 16:16:49 2021 +0530
+
+    Escape characters
+
+[33mcommit 5036c57e416cfda95bc1bbd569800a70c2bc3dbf[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 16:47:44 2021 +0530
+
+    Removing last occurrence of a character
+
+[33mcommit c72e4def0dd5a66273f390f246f707df42810795[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 16:24:43 2021 +0530
+
+    Removing space from a sentence
+
+[33mcommit c8f95caf5b3efaff8e217b5e8bd7a284757fbc7c[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 15:25:13 2021 +0530
+
+    String Concatenation
+
+[33mcommit 7f9ca7cc80fe25eb85a0454e1812ddc7aa71d9c4[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 15:12:17 2021 +0530
+
+    Copy object with copy constructor
+
+[33mcommit e4362a14d0af45c0a21262c57bfcb73718d02ae1[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 15:11:47 2021 +0530
+
+    Copy object without constructor
+
+[33mcommit 1144c91d0929b7bf0352d1785f9dec0eb57cfb1e[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 13:30:38 2021 +0530
+
+    Factorial
+
+[33mcommit 330c53387967ee9c6a5a915f06536ab3a5f098c6[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 12:53:39 2021 +0530
+
+    Vowel or Consonant
+
+[33mcommit 1b2a90eaad41f529e69f6e0b5cf0783d9dcbe2d2[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 11:10:34 2021 +0530
+
+    Fibonacci series
+
+[33mcommit 189b7d4da0613ef677174fbfc1e5d756d65b7c5d[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Mon Jan 18 10:43:45 2021 +0530
+
+    Reverse a number
+
+[33mcommit 2247314256a8e53b4ceeb1aa968e3c67f9731011[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Fri Jan 15 18:17:01 2021 +0530
+
+    Concatenation check with hashcode
+
+[33mcommit 0e836dd41b6a3477437c93a26879186673919ab2[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Fri Jan 15 17:49:15 2021 +0530
+
+    String vs StringBuffer
+
+[33mcommit 15e47ab5fd320a07e6ac82fcaab34e58f1a81ddc[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Fri Jan 15 17:31:33 2021 +0530
+
+    StringBuilder
+
+[33mcommit c634f9aea231c473493b6dd60d22c619f4071ef2[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Fri Jan 15 12:53:31 2021 +0530
+
+    Static StudentDetails
+
+[33mcommit eb0b35f017683281d7c10eef4f34f67fbab616c5[m
+Author: SanjaySiv <sanjay.ks@pitsolutions.com>
+Date:   Fri Jan 15 10:0
