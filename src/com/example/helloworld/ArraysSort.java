@@ -1,6 +1,5 @@
 package com.example.helloworld;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
@@ -23,9 +22,10 @@ public class ArraysSort {
         for(double dou:d){
             System.out.println(dou);
         }
-        Character[] ch={'d','u','a','l','q','x','s','r'};
-        Arrays.sort(ch,2,8);
-        for(char ch1:ch){
+        Character[] sh={'a','r','y','i'};
+        Comparator<Character>cmp1=Collections.reverseOrder();
+        Arrays.sort(sh,1,4,cmp1);
+        for(char ch1:sh){
             System.out.println(ch1);
         }
     }
