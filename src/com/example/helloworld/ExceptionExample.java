@@ -8,6 +8,7 @@ public class ExceptionExample {
         int a=ob.nextInt();
         try{
             int i=100/a;
+            System.out.println(i);
         }catch (ArithmeticException e){
             System.out.println(e);
         }
