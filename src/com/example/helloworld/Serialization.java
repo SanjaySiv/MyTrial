@@ -6,7 +6,7 @@ import java.io.ObjectOutputStream;
 
 public class Serialization {
     public static void main(String[] args){
-        Student s=new Student(121,"Ram");
+        Student s=new Student(121,"Ram",22);
         System.out.println("Writing....");
         try(FileOutputStream fOut=new FileOutputStream("student.txt")){
             ObjectOutputStream out=new ObjectOutputStream(fOut);

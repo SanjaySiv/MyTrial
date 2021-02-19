@@ -9,7 +9,7 @@ public class Deserialization {
         System.out.println("Reading...");
         try(ObjectInputStream in=new ObjectInputStream(new FileInputStream("student.txt"))){
             Student s=(Student)in.readObject();
-            System.out.println(s.id+"  "+s.name);
+            System.out.println(s.id+"  "+s.name+" "+s.age);
         } catch (IOException | ClassNotFoundException e) {
             e.printStackTrace();
         }
